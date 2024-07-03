@@ -1,0 +1,2 @@
+2024-07-04 00:46:48.518644: Preliminaries complete. Initiating ETL process
+2024-07-04 00:46:56.515771: Data extraction complete. Initiating Transformation process
